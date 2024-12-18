@@ -29,7 +29,7 @@ body{
   object-fit: cover;
   transform:rotate(90deg);
   width: 100%;
-  top: -120%;
+  top: -100%;
   right: 0%;
 
 }
